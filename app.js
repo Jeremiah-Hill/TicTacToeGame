@@ -84,4 +84,3 @@ function handleRestartGame() {
 }
 
 document.querySelectorAll(".cell").forEach(cell => cell.addEventListener('click', handleCellClick));
-document.querySelector(".gameRestart").addEventListener('click', handleRestartGame);
