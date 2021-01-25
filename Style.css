@@ -1,0 +1,47 @@
+#container {
+    padding-top: 3em;
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.cell {
+    clear: both;
+    margin: 0 auto;
+    width: 302px;
+    text-align: center;
+  }
+
+.cell > div {
+    float: left;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.top {
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.bottom {
+    border-top: 1px solid black;
+    text-align: center;
+}
+
+.left {
+    border-right: 1px solid black;
+    text-align: center;
+}
+
+.right {
+    border-left: 1px solid black;
+    text-align: center;
+}
+
+.cell > div:hover {
+    cursor: pointer;
+}
