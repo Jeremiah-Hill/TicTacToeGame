@@ -1,7 +1,6 @@
 #container {
     padding-top: 3em;
     text-align: center;
-    
 }
 
 h1 {
@@ -21,6 +20,7 @@ h1 {
     float: left;
     height: 100px;
     width: 100px;
+    background-color: cornflowerblue;
 }
 
 .top {
