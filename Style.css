@@ -12,7 +12,6 @@ h1 {
     clear: both;
     margin: 0 auto;
     width: 302px;
-    text-align: center;
   }
 
 .cell > div {
@@ -24,22 +23,18 @@ h1 {
 
 .top {
     border-bottom: 1px solid black;
-    text-align: center;
 }
 
 .bottom {
     border-top: 1px solid black;
-    text-align: center;
 }
 
 .left {
     border-right: 1px solid black;
-    text-align: center;
 }
 
 .right {
     border-left: 1px solid black;
-    text-align: center;
 }
 
 .cell > div:hover {
